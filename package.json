@@ -1,0 +1,23 @@
+{
+  "name": "speedwayapi",
+  "version": "1.0.0",
+  "description": "api to get values for SpeedwayBot application'",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.4.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "geolocator": "^2.1.3",
+    "heroku": "^7.16.5",
+    "ip": "^1.1.5",
+    "iplocation": "^5.0.1",
+    "nodemon": "^1.18.4",
+    "request": "^2.88.0",
+    "where": "^0.3.0"
+  }
+}
