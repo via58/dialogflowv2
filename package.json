@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "api to get values for SpeedwayBot application'",
   "main": "app.js",
-  "scripts": {
-    "start": "node app.js"
-  },
   "author": "vijay",
   "license": "ISC",
   "dependencies": {
